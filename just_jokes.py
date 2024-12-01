@@ -1,3 +1,6 @@
+# Wrote this to inspire my daughter thinking that she would consider
+# learning some python.
+# Who knows, I will check back in 10 years ;-)
 import pyjokes
 import art 
 
